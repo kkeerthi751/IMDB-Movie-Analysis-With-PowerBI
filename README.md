@@ -44,5 +44,3 @@ Identified the top directors based on their average IMDB score. Analyzed their c
 ### E. Budget Analysis
 Explored the relationship between movie budgets and their financial success. Analyzed the correlation between movie budgets and gross earnings. Identified the movies with the highest profit margin.
 
-### Dashboards
-Dashboard : https://drive.google.com/file/d/1Da_o_s5hvG0VicklVbbVVERHkCdmfxQk/view?usp=sharing
