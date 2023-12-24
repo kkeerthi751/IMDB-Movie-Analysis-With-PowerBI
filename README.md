@@ -29,20 +29,20 @@ The five 'whys' approach was applied to dig deeper into identified correlations.
 The findings and insights gained from the analysis are presented in a report. Visualizations are used to tell a story and make the findings more understandable.
 
 ## Data Analytics Tasks
-A. Movie Genre Analysis
+###A. Movie Genre Analysis
 Determined the most common genres of movies in the dataset. Calculated descriptive statistics (mean, median, mode, range, variance, standard deviation) of the IMDB scores for each genre.
 
-B. Movie Duration Analysis
+### B. Movie Duration Analysis
 Analyzed the distribution of movie durations and identified the relationship between movie duration and IMDB score.
 
-C. Language Analysis
+### C. Language Analysis
 Examined the distribution of movies based on their language. Determined the most common languages used in movies and analyzed their impact on the IMDB score using descriptive statistics.
 
-D. Director Analysis
+### D. Director Analysis
 Identified the top directors based on their average IMDB score. Analyzed their contribution to the success of movies using percentile calculations.
 
-E. Budget Analysis
+### E. Budget Analysis
 Explored the relationship between movie budgets and their financial success. Analyzed the correlation between movie budgets and gross earnings. Identified the movies with the highest profit margin.
 
-Dashboards
+### Dashboards
 Dashboard : https://drive.google.com/file/d/1Da_o_s5hvG0VicklVbbVVERHkCdmfxQk/view?usp=sharing
