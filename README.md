@@ -6,7 +6,7 @@ Explore the dynamics of movie success on IMDB through a comprehensive analysis. 
 This project aims to analyze the factors influencing the success of movies on IMDB, with success defined by high IMDB ratings. The analysis covers various aspects such as movie genres, duration, language, directors' influence, and budget analysis. The goal is to provide actionable insights for movie producers, directors, and investors.
 
 ## Table of Contents
-Data Cleaning
+####Data Cleaning
 Data Analysis
 Five 'Whys' Approach
 Report and Data Story
