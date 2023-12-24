@@ -11,11 +11,11 @@ Data Analysis
 Five 'Whys' Approach
 Report and Data Story
 ## Data Analytics Tasks
-A. Movie Genre Analysis
-B. Movie Duration Analysis
-C. Language Analysis
-D. Director Analysis
-E. Budget Analysis
+   A. Movie Genre Analysis
+   B. Movie Duration Analysis
+   C. Language Analysis
+   D. Director Analysis
+   E. Budget Analysis
 ## Data Cleaning
 The data cleaning process involved handling missing values, removing duplicates, and converting data types to prepare the data for analysis.
 
