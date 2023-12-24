@@ -1,7 +1,7 @@
-## IMDB_Analysis
+# IMDB_Analysis
 Explore the dynamics of movie success on IMDB through a comprehensive analysis. Uncover insights into the influence of genres, duration, language, directors, and budgets on IMDB ratings. The project offers actionable findings for stakeholders in the film industry, presented with compelling visualizations in Power BI dashboards.
 
-## IMDB Movie Analysis With PowerBI
+# IMDB Movie Analysis With PowerBI
 ### Overview
 This project aims to analyze the factors influencing the success of movies on IMDB, with success defined by high IMDB ratings. The analysis covers various aspects such as movie genres, duration, language, directors' influence, and budget analysis. The goal is to provide actionable insights for movie producers, directors, and investors.
 
